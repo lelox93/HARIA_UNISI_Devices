@@ -14,17 +14,6 @@ Welcome to the **HARIA_UNISI_Devices** repository! 🎉 This repository is a tre
     - Source code for device firmware.
     - Includes setup instructions and configuration files.
 
-3. **Wearable SensoriMotor Interface 🦾**
-    - Documentation and resources for the wearable interface.
-    - Guides for integration with other systems.
-
-4. **ROS Noetic SixthFinger 🤖**
-    - ROS Noetic packages for the SixthFinger device.
-    - Tutorials for installation and usage.
-
-5. **CoGripper 🛠️**
-    - Design files and firmware for the CoGripper.
-    - Step-by-step assembly instructions.
 
 ### 📖 How to Use
 
