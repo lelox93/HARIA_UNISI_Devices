@@ -10,7 +10,7 @@
 TFT_eSPI tft = TFT_eSPI();
 
 // Indirizzo MAC del peer ESP‑NOW
-uint8_t mac_peer1[] = { 0x94, 0x54, 0xC5, 0x78, 0xE5, 0xB4 };
+uint8_t mac_peer1[] = { 0xA0, 0xA3, 0xB3, 0x2A, 0xE6, 0x60 };
 
 // Struttura del peer ESP‑NOW
 esp_now_peer_info_t peer1;
